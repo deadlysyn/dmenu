@@ -1,4 +1,4 @@
-# Yet Another dmenu Fork
+# dmenu with my preferred patches
 
 [Original art](https://tools.suckless.org/dmenu).
 
