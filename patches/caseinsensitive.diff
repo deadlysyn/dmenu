@@ -1,5 +1,5 @@
---- dmenu.c
-+++ dmenu.c
+--- a/dmenu.c
++++ b/dmenu.c
 @@ -55,8 +55,9 @@ static Clr *scheme[SchemeLast];
  
  #include "config.h"
