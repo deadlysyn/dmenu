@@ -17,7 +17,6 @@ Afterwards enter the following command to build and install dmenu
 # Included patches
 
 - [case-insensitive](https://tools.suckless.org/dmenu/patches/case-insensitive)
-- [fuzzyhighlight](https://tools.suckless.org/dmenu/patches/fuzzyhighlight)
 - [fuzzymatch](https://tools.suckless.org/dmenu/patches/fuzzymatch)
 - [line-height](https://tools.suckless.org/dmenu/patches/line-height)
 - [xresources](https://tools.suckless.org/dmenu/patches/xresources)
