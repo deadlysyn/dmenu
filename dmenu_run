@@ -1,2 +1,2 @@
-#!/bin/dash
-dmenu_path | dmenu -h ${PANEL_HEIGHT:-20} "$@" | ${SHELL:-"/bin/dash"} &
+#!/bin/sh
+dmenu_path | dmenu "$@" | ${SHELL:-"/bin/sh"} &
