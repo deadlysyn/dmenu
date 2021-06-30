@@ -1,0 +1,9 @@
+patch -p1 < <patch>
+
+best order:
+
+1. xresources
+2. lineheight
+3. casesensitive
+4. fuzzymatch - simple reject to fix
+
